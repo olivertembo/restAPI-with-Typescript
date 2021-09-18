@@ -16,6 +16,7 @@ function getData(): Promise<Data[]> {
     );
 }
 
-const data = getData
+const data = getData();
 
+data.
 
